@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 tasty tasty aubergines live here !
-<param ve-map center="Q33784" zoom="11" prefer-geojson>
+<param ve-map center="Q24389" zoom="8" prefer-geojson>
 
 <param ve-config 
        title="Girl with a Pearl Earring"
