@@ -1,5 +1,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
+tasty tasty aubergines live here !
+<param ve-map center="Q33784" zoom="11" prefer-geojson>
+
 <param ve-config 
        title="Girl with a Pearl Earring"
        author="JSTOR Labs team"
@@ -37,7 +40,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+<param ve-map center="Q38234" zoom="11" prefer-geojson>
 
 ## Multiple viewers
 
