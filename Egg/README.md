@@ -14,4 +14,4 @@ url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Bernini%27s_Apollo_and_
 statue.jpg"
 label="Apollo and Daphne"
 description="sculpture by Gian Lorenzo Bernini"
-license="CC BY-SA 4.0"
+license="CC BY-SA 4.0">
