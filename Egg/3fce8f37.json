@@ -23,5 +23,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#a07a3fbd-6e50-4bd4-9a68-fab17589211d"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Tusk",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Elephant.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:107.68199920654297,266.7015380859375,28.176490783691406,53.944305419921875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#493d853a-f4ff-44fa-a957-d8644a25e0c3"
   }
 ]
