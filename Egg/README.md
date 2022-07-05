@@ -20,3 +20,11 @@ url="https://upload.wikimedia.org/wikipedia/commons/3/38/Elephant_sprite_set_she
 label="Apollo and Daphne"
 description="sculpture by Gian Lorenzo Bernini"
 license="CC BY-SA 4.0">
+
+Miscellaneous elephants
+<param ve-image
+curtain="true"
+url="https://upload.wikimedia.org/wikipedia/commons/b/bc/Elephant.jpg"
+label="Apollo and Daphne"
+description="sculpture by Gian Lorenzo Bernini"
+license="CC BY-SA 4.0">
