@@ -10,8 +10,7 @@
 Juncturey junctury junctury juncture
 
 <param ve-image       
-url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Bernini%27s_Apollo_and_Daphne_
-statue.jpg"
+url="https://upload.wikimedia.org/wikipedia/commons/b/bc/Elephant.jpg"
 label="Apollo and Daphne"
 description="sculpture by Gian Lorenzo Bernini"
 license="CC BY-SA 4.0">
