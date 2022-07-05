@@ -3,10 +3,11 @@
 <param ve-config
         title="image test"
        author="Nathan"
-       banner="https://upload.wikimedia.org/wikipedia/commons/a/ad/Bernini%27s_Apollo_and_Daphne_
-statue.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/b/bc/Elephant.jpg"
        layout="vertical"
 
+
+Juncturey junctury junctury juncture
 
 <param ve-image       
 url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Bernini%27s_Apollo_and_Daphne_
