@@ -16,7 +16,7 @@ label="Apollo and Daphne"
 description="sculpture by Gian Lorenzo Bernini"
 license="CC BY-SA 4.0">
 <param ve-compare
-url="https://upload.wikimedia.org/wikipedia/commons/3/38/Elephant_sprite_set_sheet_cartoon_walking.png"
+url="https://upload.wikimedia.org/wikipedia/commons/f/f1/Elephant_shadows_front_view_animation.png"
 label="Apollo and Daphne"
 description="sculpture by Gian Lorenzo Bernini"
 license="CC BY-SA 4.0">
