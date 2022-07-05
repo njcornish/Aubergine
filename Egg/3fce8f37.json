@@ -29,6 +29,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "Ear",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Elephant.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:286.0588073730469,95.59810638427734,50.092315673828125,63.179786682128906"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#3705ca54-0521-4395-a2dd-811fd7728b95"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "Tusk",
         "purpose": "commenting"
       }
