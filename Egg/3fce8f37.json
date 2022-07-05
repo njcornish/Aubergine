@@ -1,0 +1,27 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "nice elephant",
+        "purpose": "commenting"
+      },
+      {
+        "type": "TextualBody",
+        "value": "elephant label",
+        "purpose": "tagging"
+      }
+    ],
+    "target": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Elephant.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:51.387752532958984,176.46205139160156,75.73307418823242,43.65484619140625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#a07a3fbd-6e50-4bd4-9a68-fab17589211d"
+  }
+]
