@@ -28,3 +28,11 @@ url="https://upload.wikimedia.org/wikipedia/commons/b/bc/Elephant.jpg"
 label="Apollo and Daphne"
 description="sculpture by Gian Lorenzo Bernini"
 license="CC BY-SA 4.0">
+
+
+<param ve-knightlab-timeline
+        source="https://docs.google.com/spreadsheets/d/1noC94oupIfeqdeve_s7vj5OrhvoTR0PHuwqby3AmHJQ/edit#gid=0"
+        timenav-position="bottom"
+        hash-bookmarks="false"
+        initial zoom="1"
+        
