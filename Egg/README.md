@@ -1,5 +1,10 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
+ <param ve-config 
+       # title="Entangled Roots: How Rhubarb shows connections between new botanical science and herbal tradition"
+       # author="Nathan Cornish"
+       banner="Banner.png"
+       layout="vertical">
        
 ### Europe and Western 'interest' and 'ignorance' about the plant
 
